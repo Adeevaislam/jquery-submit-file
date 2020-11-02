@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'PT Sans', sans-serif;
+	color: ; 
+}
+/*header strat*/
+header{
+	background-color: aqua;
+	padding: 10px 0;
+}
+.menu ul li a{
+	font-weight: 400;
+	font-size: 20px;
+	color: ;
+	/*color:#010101;*/
+	padding: 0 40px !important;
+	/*transition: .3s;*/
+
+}
+/*.menu ul li:last child a{
+	padding-right: 0;
+}
+.menu ul li a:hover{
+	color: white !important;
+}*/
+
+
+.red p{
+
+	min-height: 300px;
+	padding: 50px;
+	/*text-align: center;*/
+	background-color: black;
+
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+
+.wrapper h1{
+	color: blue;
+}
+
+
+
+	
